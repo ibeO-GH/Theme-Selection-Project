@@ -12,7 +12,7 @@ This page is a Theme Change page where you can select different themes of your c
 
 \*Implemented responsiveness for tablet and mobile screens
 
-<!-- ## GitHub Pages - https://ibeo-gh.github.io/Theme-Selection-Project/ -->
+## GitHub Pages - https://ibeo-gh.github.io/Theme-Selection-Project/
 
 ## Screenshot of how it looks
 
